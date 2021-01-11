@@ -5,6 +5,8 @@ description = ""
 authors = ["Andy Dirnberger <andy.dirnberger@gmail.com>"]
 license = "MIT"
 
+readme = "README.rst"
+
 [tool.poetry.dependencies]
 python = "^3.9"
 
