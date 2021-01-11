@@ -7,6 +7,8 @@ license = "MIT"
 
 readme = "README.rst"
 
+repository = "https://github.com/dirn/wishlist"
+
 [tool.poetry.dependencies]
 python = "^3.9"
 
